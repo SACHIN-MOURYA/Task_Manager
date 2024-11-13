@@ -53,7 +53,7 @@ Straight forward task management application that focuses on core functionality 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Task-manager
+   cd Task_Manager
    ```
 3. Install dependencies (if using React/Vue):
    ```bash
