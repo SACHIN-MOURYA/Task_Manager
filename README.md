@@ -3,7 +3,7 @@
 
 ## Objective
 
-Straightforward task management application that focuses on core functionality and a user-friendly interface.
+Straight forward task management application that focuses on core functionality and a user-friendly interface.
 
 ## Core Features
 
