@@ -14,6 +14,8 @@ Straight forward task management application that focuses on core functionality 
   - **Overdue Tasks**
   - **Completed Tasks**
 
+![Dashboard Screenshot](https://github.com/user-attachments/assets/cd80fb1f-f9a1-4855-96f9-d8aa30b296eb)
+
 ### Task Management
 - Users can **add**, **edit**, and **delete** tasks.
 - Each task includes the following attributes:
@@ -22,6 +24,7 @@ Straight forward task management application that focuses on core functionality 
   - **Due Date**: Date by which the task should be completed.
   - **Priority Level**: Importance level for each task.
 
+![Task Management Screenshot](https://github.com/user-attachments/assets/7e8c1fee-5064-4366-86f3-237dcbcd503a)
 ### Priority Levels
 - Define three priority levels for tasks:
   - **High**
@@ -29,12 +32,17 @@ Straight forward task management application that focuses on core functionality 
   - **Low**
 - Users can set and update the priority of each task based on urgency or importance.
 
+![Priority Levels Screenshot]!(https://github.com/user-attachments/assets/a11f89eb-314b-473d-873b-360576ef70bc)
+![image](https://github.com/user-attachments/assets/2fcf610b-d0f2-41e6-a6ae-5edae5fa2a45)
+![image](https://github.com/user-attachments/assets/c71411ce-9bbe-4eeb-8124-df8ddc927312)
 ### Search and Filter
 - **Search**: Implement a search functionality to quickly find tasks based on keywords.
 - **Filter**: Allow users to filter tasks based on:
   - Priority level (High, Medium, Low)
   - Completion status (Completed, Not Completed)
 
+![Search and Filter Screenshot](https://github.com/user-attachments/assets/1348b214-1392-4842-b93f-2254acd2d9c0)
+![image](https://github.com/user-attachments/assets/7f7a96d3-8657-4b93-9550-fa76149aee9b)
 
 ## Getting Started
 
@@ -70,6 +78,7 @@ Straight forward task management application that focuses on core functionality 
 
 - **User Authentication**: Add login/signup functionality to support multiple users.
 - **Database Integration**: Migrate to a backend database for scalable task storage and user data management.
+
 
 ---
 
