@@ -32,7 +32,7 @@ Straight forward task management application that focuses on core functionality 
   - **Low**
 - Users can set and update the priority of each task based on urgency or importance.
 
-![Priority Levels Screenshot]!(https://github.com/user-attachments/assets/a11f89eb-314b-473d-873b-360576ef70bc)
+![Priority Levels Screenshot](https://github.com/user-attachments/assets/a11f89eb-314b-473d-873b-360576ef70bc)
 ![image](https://github.com/user-attachments/assets/2fcf610b-d0f2-41e6-a6ae-5edae5fa2a45)
 ![image](https://github.com/user-attachments/assets/c71411ce-9bbe-4eeb-8124-df8ddc927312)
 ### Search and Filter
