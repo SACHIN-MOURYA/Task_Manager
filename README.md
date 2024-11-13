@@ -3,7 +3,7 @@
 
 ## Objective
 
-Develop a straightforward task management application that focuses on core functionality and a user-friendly interface.
+Straightforward task management application that focuses on core functionality and a user-friendly interface.
 
 ## Core Features
 
@@ -35,31 +35,17 @@ Develop a straightforward task management application that focuses on core funct
   - Priority level (High, Medium, Low)
   - Completion status (Completed, Not Completed)
 
-## Technical Requirements
-
-### Frontend
-- The application uses a lightweight frontend framework such as:
-  - **Vanilla JavaScript**
-  - **React**
-  - **Vue.js**
-- The interface is simple, clean, and easy to navigate, focusing on usability.
-
-### Local Storage
-- Task data is stored locally in the browser using either:
-  - **localStorage**
-  - **sessionStorage**
-- Local storage enables persistence of task data across sessions without needing a server.
 
 ## Getting Started
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-management-app.git
+   git clone https://github.com/SACHIN-MOURYA/Task_Manager
    ```
 2. Navigate to the project directory:
    ```bash
-   cd task-management-app
+   cd Task-manager
    ```
 3. Install dependencies (if using React/Vue):
    ```bash
@@ -70,7 +56,7 @@ Develop a straightforward task management application that focuses on core funct
 1. To start the application, open `index.html` in your browser.
 2. For React/Vue setup, run:
    ```bash
-   npm start
+   npm run start
    ```
 
 ## Usage
