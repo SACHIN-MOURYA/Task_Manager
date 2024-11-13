@@ -80,5 +80,8 @@ Straight forward task management application that focuses on core functionality 
 - **Database Integration**: Migrate to a backend database for scalable task storage and user data management.
 
 
+## Live Demo
+
+You can view the live demo of the project here: [Task Manager]https://task-manager-ruby-eta.vercel.app/
 ---
 
